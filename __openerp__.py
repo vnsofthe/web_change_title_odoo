@@ -13,4 +13,6 @@ Please insert a record to parameter,and key='company.title',value='new title'.
     'data':['web.xml'],
     'installable': True,
     'auto_install': False,
+    'price': 0.99,
+    'currency': 'EUR'
 }
